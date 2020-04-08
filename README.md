@@ -18,5 +18,6 @@ $ python main.py
 ```
 ENJOY PLAYING THE GAME
 
-# THE WHOLE GAME IS ACTUALLY DEVELOPED BY @anujvijjan
-Contributions are accepted.
+# The game is actually developed by [Anuj Vijjan](https://github.com/AnujVijjan)
+This organization was created for a small college project, unfortunately [Anuj Vijjan](https://github.com/AnujVijjan) due to his busy schedule hasn’t been able to join. In fact, he is busy developing new apps for the organization. So we are managing the repos here and making changes likewise.
+# All Contributions are accepted.
