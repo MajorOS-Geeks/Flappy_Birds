@@ -1,5 +1,4 @@
-# Flappy_Birds
-A FUN Flappy Birds game build using PyGame package.
+# Flappy_Birds - A fun game build using pygame
 
 # Installation
 On Linux –
