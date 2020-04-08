@@ -1,4 +1,4 @@
-# Flappy_Birds - A fun game build using pygame
+# Flappy Birds - A fun game build using pygame
 
 # Installation
 On Linux –
@@ -18,5 +18,5 @@ $ python main.py
 ```
 ENJOY PLAYING THE GAME
 
-
+# THE WHOLE GAME IS ACTUALLY DEVELOPED BY @anujvijjan
 Contributions are accepted.
