@@ -10,9 +10,9 @@ $ sudo apt-get install python3-dev python3-numpy libsdl-dev libsdl-image1.2-dev 
 Then create a conda env
 
 ```shell
-$ git clone https://github.com/AnujVijjan/Flappy-Bird-Game.git
+$ git clone https://github.com/MajorOS-Geeks/Flappy_Birds.git
 $ conda create --name flappy_game --file conda_req.txt
-$ cd Flappy-Bird-Game
+$ cd Flappy_Birds
 $ conda activate flappy_game
 $ python main.py
 ```
